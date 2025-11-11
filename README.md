@@ -19,8 +19,7 @@ A full-stack anime streaming platform built with React, Express, and MySQL. Feat
 
 ### Authentication & Authorization
 - **Manus OAuth**: Secure authentication system
-- **Role-Based Access Control**: User, Admin, and Owner roles
-- **Owner Auto-Assignment**: gtartup@gmail.com automatically becomes owner
+- **Role-Based Access Control**: User, Admin, and Owner role 
 - **Permission Management**: Granular control over admin functions
 
 ## 🛠️ Technology Stack
