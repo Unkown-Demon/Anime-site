@@ -68,3 +68,45 @@
 - [ ] User ratings and reviews
 - [ ] Social features (sharing, following)
 - [ ] Email notifications
+
+
+## Bug Fixes & Improvements
+- [ ] Fix all existing bugs and issues
+- [ ] Improve error handling and validation
+- [ ] Optimize performance and loading times
+- [ ] Fix responsive design issues
+- [ ] Add better error messages and user feedback
+
+## Multi-Language Support
+- [ ] Implement i18n (internationalization) system
+- [ ] Add Uzbek language translations
+- [ ] Add Russian language translations
+- [ ] Add language switcher in UI
+- [ ] Translate all pages and components
+- [ ] Translate admin panel
+
+## Owner Auto-Assignment
+- [ ] Implement automatic owner detection for gtartup@gmail.com
+- [ ] Set owner privileges automatically on first login
+- [ ] Create owner-specific dashboard features
+- [ ] Add owner-only management tools
+
+## Additional Features
+- [ ] Add user profile page with edit functionality
+- [ ] Add anime rating and review system
+- [ ] Add comment section for anime
+- [ ] Add user watch history tracking
+- [ ] Add anime recommendations algorithm
+- [ ] Add notification system
+- [ ] Add email notifications for new anime
+- [ ] Add social sharing features
+- [ ] Add anime categories/genres filtering
+- [ ] Add advanced search with filters
+
+## GitHub Integration
+- [ ] Initialize git repository
+- [ ] Create GitHub repository "Anime Site"
+- [ ] Configure .gitignore
+- [ ] Add README.md with documentation
+- [ ] Push code to GitHub
+- [ ] Set repository as public
